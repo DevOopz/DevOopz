@@ -4,10 +4,10 @@ Devoopz@github
 
 OS             •   Linux
 Language       •   py, html, css
-E-Mail         •   Shivam.sinzh@gmail.com
-Notes          •   Entering the new world of developers. 
+E-Mail         •   shivam.sinzh@gmail.com
+Notes          •   entering the new world of developers. 
 
-Timesgroup.cloud
-Devoopz.github.io
+timesgroup.cloud
+devoopz.github.io
 
 ```
