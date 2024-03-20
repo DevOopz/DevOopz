@@ -1,13 +1,13 @@
 ```haskell
-nnlxix@github
--------------
+Devoopz@github
+--------------
 
-OS             •   ReviOS 10
+OS             •   Linux
 Language       •   py, html, css
-E-Mail         •   naufalizeds@gmail.com
+E-Mail         •   Shivam.sinzh@gmail.com
 Notes          •  
 
-sa1n.me
-sssain.gumroad.com
+Timesgroup.cloud
+Devoopz.github.io
 
 ```
